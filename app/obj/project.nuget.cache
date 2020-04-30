@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xAhTmkO1HBHqkeHFhFpvzYwz35XwARB6FIXrkEmTJ2fd2peKGUAoMfn4SOK6Ul91Wrl2y2oJhghA2wMdPLUSdw==",
+  "success": true,
+  "projectFilePath": "/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/app.csproj",
+  "expectedPackageFiles": [
+    "/Users/emily.watson/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/Users/emily.watson/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.0.1/microsoft.netcore.app.host.osx-x64.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

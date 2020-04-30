@@ -1,0 +1,11 @@
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/bin/Debug/netcoreapp3.0/app
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/bin/Debug/netcoreapp3.0/app.deps.json
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/bin/Debug/netcoreapp3.0/app.runtimeconfig.json
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/bin/Debug/netcoreapp3.0/app.runtimeconfig.dev.json
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/bin/Debug/netcoreapp3.0/app.dll
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/bin/Debug/netcoreapp3.0/app.pdb
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/obj/Debug/netcoreapp3.0/app.csprojAssemblyReference.cache
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/obj/Debug/netcoreapp3.0/app.AssemblyInfoInputs.cache
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/obj/Debug/netcoreapp3.0/app.AssemblyInfo.cs
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/obj/Debug/netcoreapp3.0/app.dll
+/Users/emily.watson/Protege/C#/tic-tac-toe/tic-tac-toe/app/obj/Debug/netcoreapp3.0/app.pdb

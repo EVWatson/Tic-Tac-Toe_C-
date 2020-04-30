@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ead7ac1f-3a1f-4176-8dde-f524892eb25a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/Board.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Square.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/String-Formatter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Square.cs" />
+        <option value="$PROJECT_DIR$/app/Board.cs" />
+        <option value="$PROJECT_DIR$/app/String-Formatter.cs" />
+        <option value="$PROJECT_DIR$/app/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVQb63fVtoERKQxhoRVlUrjZ3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.app">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="app" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/app/app.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead7ac1f-3a1f-4176-8dde-f524892eb25a" name="Default Changelist" comment="" />
+      <created>1575439351126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575439351126</updated>
+      <workItem from="1575439353720" duration="3211000" />
+      <workItem from="1588053377934" duration="2827000" />
+      <workItem from="1588119030618" duration="13421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1588229467863">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1588229467863">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1588229467863">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1588229467863">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
+    <state x="-1281" y="268" key="RiderGenerateDialog" timestamp="1588130138776">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1281" y="268" key="RiderGenerateDialog/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588130138776" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
