@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ead7ac1f-3a1f-4176-8dde-f524892eb25a" name="Default Changelist" comment="" />
+    <list default="true" id="ead7ac1f-3a1f-4176-8dde-f524892eb25a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app/Board.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,12 +23,14 @@
       <list>
         <option value="$PROJECT_DIR$/app/Square.cs" />
         <option value="$PROJECT_DIR$/app/Board.cs" />
-        <option value="$PROJECT_DIR$/app/String-Formatter.cs" />
         <option value="$PROJECT_DIR$/app/Program.cs" />
+        <option value="$PROJECT_DIR$/app/String-Formatter.cs" />
+        <option value="$PROJECT_DIR$/app/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1UVQb63fVtoERKQxhoRVlUrjZ3f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,7 +95,7 @@
       <updated>1575439351126</updated>
       <workItem from="1575439353720" duration="3211000" />
       <workItem from="1588053377934" duration="2827000" />
-      <workItem from="1588119030618" duration="13421000" />
+      <workItem from="1588119030618" duration="13761000" />
     </task>
     <servers />
   </component>
@@ -97,26 +104,37 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1588229467863">
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1588232339174">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
-    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1588229467863">
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588232339174" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1588232339173">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
-    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1588229467863">
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588232339173" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1588232339172">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
-    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1588229467863">
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588232339172" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1588232339174">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588229467863" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588232339174" />
     <state x="-1281" y="268" key="RiderGenerateDialog" timestamp="1588130138776">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
